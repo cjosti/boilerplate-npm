@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cleiton Osti",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "freecodecamp", "challenge" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
